@@ -18,9 +18,9 @@ function About() {
         "Exploring new technologies and research-driven approaches to real-world problems.",
     },
     {
-      title: "Team Leadership",
+      title: "Team Co-ordination",
       description:
-        "Leading teams, collaborating effectively, and delivering impactful project outcomes.",
+        "Working with teams, collaborating effectively, and delivering impactful project outcomes.",
     },
   ];
 
