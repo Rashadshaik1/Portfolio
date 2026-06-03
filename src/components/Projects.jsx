@@ -84,15 +84,15 @@ function Projects() {
             </div>
 
             {/* Buttons */}
-            <div className="flex gap-4 mt-6">
+            {/* <div className="flex gap-4 mt-6">
               <button className="text-blue-500 hover:text-blue-400">
-                GitHub →
+                <a href="">GitHub →</a>
               </button>
 
               <button className="text-zinc-300 hover:text-white">
-                Case Study →
+                <a href="">Case Study →</a>
               </button>
-            </div>
+            </div> */}
           </div>
         ))}
       </div>
