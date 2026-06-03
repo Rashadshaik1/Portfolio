@@ -12,9 +12,12 @@ function Navbar() {
         <div className="flex items-center justify-between bg-zinc-900/70 backdrop-blur-md border border-zinc-800 rounded-2xl px-6 py-4">
 
           {/* Logo */}
-          <h1 className="text-xl font-bold tracking-wide">
-            Rashad.
-          </h1>
+
+          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+          {/* <h1 className="text-xl font-bold tracking-wide">
+            Rashad
+          </h1> */}
+          
 
           {/* Desktop Nav */}
           <ul className="hidden md:flex gap-8 text-sm text-zinc-300">
