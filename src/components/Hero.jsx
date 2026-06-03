@@ -18,25 +18,23 @@ function Hero() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          <p className="text-blue-500 font-medium mb-4">
+          {/* <p className="text-blue-500 font-medium mb-4">
             Research Intern @ IIIT Kottayam
-          </p>
+          </p> */}
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight">
-            Hi, I'm
+            Hello, I'm
             <span className="block text-blue-500">
               Rashad Shaik
             </span>
           </h1>
 
           <p className="text-xl md:text-2xl text-zinc-300 mt-6">
-            Full Stack Developer & Problem Solver
+            Full Stack Developer
           </p>
 
           <p className="text-zinc-400 text-lg md:text-xl mt-8 max-w-2xl">
-            I build scalable web applications, explore research-driven
-            solutions, and enjoy solving complex problems through
-            software engineering.
+            I build scalable full-stack web applications using cutting-edge technologies, with a focus on performance, maintainability, and user experience. I enjoy solving complex engineering problems and designing systems that are efficient, practical, and production-ready.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 mt-10">

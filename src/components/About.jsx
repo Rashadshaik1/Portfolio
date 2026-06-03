@@ -39,9 +39,8 @@ function About() {
           {/* Left Side */}
           <div>
             <p className="text-zinc-400 text-lg leading-relaxed">
-              I'm Rashad Shaik, a Computer Science student at
-              Gayatri Vidya Parishad College of Engineering and a
-              Research Intern at IIIT Kottayam.
+              I'm Rashad Shaik, an Information Technology undergraduate at
+              Gayatri Vidya Parishad College of Engineering(A).
 
               <br /><br />
 
