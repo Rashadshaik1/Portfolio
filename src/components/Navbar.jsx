@@ -13,10 +13,10 @@ function Navbar() {
 
           {/* Logo */}
 
-          <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
-          {/* <h1 className="text-xl font-bold tracking-wide">
+          {/* <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" /> */}
+          <h1 className="text-xl font-bold tracking-wide">
             Rashad
-          </h1> */}
+          </h1> 
           
 
           {/* Desktop Nav */}
