@@ -18,9 +18,9 @@ function Hero() {
           animate={{ opacity: 1, x: 0 }}
           transition={{ duration: 0.8 }}
         >
-          {/* <p className="text-blue-500 font-medium mb-4">
+           {/* <p className="text-blue-500 font-medium mb-4">
             Research Intern @ IIIT Kottayam
-          </p> */}
+          </p>  */}
 
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold leading-tight">
             Hello, I'm
